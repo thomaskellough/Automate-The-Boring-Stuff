@@ -15,3 +15,6 @@ then I googled solutions or tried to find examples, then I would ask for help
 on www.reddit.com/r/learnpython. As a programmer, you will probably always have
 access to Google, so there is no shame in searching for an answer. But I would
 still try and figure it out on your own before resorting to that. 
+
+I've added my files I used for the word invitations and seating cards in 
+GithubFiles.zip. 
