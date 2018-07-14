@@ -17,4 +17,20 @@ as well as adding # before each line to comment it out. This way it's readable
 in the IDE, then if you want to execute code to answer the question you can
 do so without a problem. 
 
-See practice_questions.py for my solution
+See 'Practice Questions' for my solution
+
+
+2) Since I use an IDE I organize each chapter into a new new project. This means
+every file in each project will be set to that working directly unless specified.
+There are some programs I actually want to keep and run at a later time without
+wanting to go into the directory. I created a new folder called 'MyPythonScripts'
+that stores all of these. I also set my Environmental Variables to include that
+path so I can use Win+R to run these programs. Appendix B will show you how to 
+do this. This means you also need to create a .bat file for each program you 
+want to run. 
+
+Write a program that automatically copies a .py file, moves it into a specific 
+directory of your choosing, and automatically creates a .bat file so you don't
+have to do this manually every time.
+
+See 'Py Copy' for my solution.
