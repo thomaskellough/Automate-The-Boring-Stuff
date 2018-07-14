@@ -34,3 +34,8 @@ directory of your choosing, and automatically creates a .bat file so you don't
 have to do this manually every time.
 
 See 'Py Copy' for my solution.
+
+3) This course contains a few zip files. You will probably get multiple other zip
+files as well. Write a program to zip your a file to a specific location.
+
+See 'Zip' for my solution
