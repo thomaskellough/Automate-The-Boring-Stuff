@@ -2,7 +2,7 @@ Throughout this book you may be find yourself repeating some of the same
 tasks over and over again. Why not use the knowledge you gained to create
 programs that help you as you work your way through? Here are some ideas
 that you can do. I've also include my codes for these, but as always, I
-encourage you to attempt to write some yourself first! You may come up
+encourage you to attempt to write some yoursel, first! You may come up
 with a much better code than I use.
 
 
@@ -20,7 +20,7 @@ do so without a problem.
 See 'Practice Questions' for my solution
 
 
-2) Since I use an IDE I organize each chapter into a new new project. This means
+2) I like to organize each chapter in a new project in PyCharm. This means
 every file in each project will be set to that working directly unless specified.
 There are some programs I actually want to keep and run at a later time without
 wanting to go into the directory. I created a new folder called 'MyPythonScripts'
@@ -40,13 +40,13 @@ files as well. Write a program to zip your a file to a specific location.
 
 See 'Zip' for my solution
 
-4) Have you made it to the Chapter 13 and working with PDF documents? How annoying
+4) Have you made it to the Chapter 13 and began working with PDF documents? How annoying
 is it when you're testing out your program over and over for encrypting and decrypting
 and running into issues because both exist in one directory? 
 
-Write a program that automatically deletes all encrypted files labeld ending with 
+Write a program that automatically deletes all encrypted files ending with 
 encrypted.pdf or decrypted.pdf. This will make PDF Paranoia much easier to work with. 
-You can test PDF paranoia, then just run your new program to go put the folder back to
+You can test PDF paranoia, then just run your new program to put the folder back to
 how it was originally, make your changes, and repeat. This keeps you from having to open
 each folder manually and deleting each one. 
 
