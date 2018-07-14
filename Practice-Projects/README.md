@@ -1,4 +1,4 @@
-This folder contains all of the practice problems except for. I did not include
+This folder contains all of the practice problems except for a couple. I did not include
 a solution to 'Controlling Your Computer Through Email' for a couple of reasons.
 I did not want to download BitTorrent and Al Sweigart already has a good example 
 of this program on http://nostarch.com/automatestuff/. I also currently do not 
