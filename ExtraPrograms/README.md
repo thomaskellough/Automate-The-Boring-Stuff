@@ -39,3 +39,15 @@ See 'Py Copy' for my solution.
 files as well. Write a program to zip your a file to a specific location.
 
 See 'Zip' for my solution
+
+4) Have you made it to the Chapter 13 and working with PDF documents? How annoying
+is it when you're testing out your program over and over for encrypting and decrypting
+and running into issues because both exist in one directory? 
+
+Write a program that automatically deletes all encrypted files labeld ending with 
+encrypted.pdf or decrypted.pdf. This will make PDF Paranoia much easier to work with. 
+You can test PDF paranoia, then just run your new program to go put the folder back to
+how it was originally, make your changes, and repeat. This keeps you from having to open
+each folder manually and deleting each one. 
+
+See 'Delete Encrypted' for my solution
