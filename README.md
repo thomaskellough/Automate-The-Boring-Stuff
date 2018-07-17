@@ -5,11 +5,34 @@ Automate The Boring Stuff With Python is a book written by Al Sweigart. It can b
 
 This book is designed for people new to programming that aims to achieve success in writing programs that can be used for your daily life. Throughout each chapter, Swiegart assigns practice projects to complete. I have completed all but one of these practice projects and published them for view.
 
-A note about my codes. There are definitely better way to achieve the same results than what I'm providing. I did my best to use material learned from only the book to keep things familiar. Some chapters are outdated and the modules used now require different syntax. I tried my best to point out these changes in the codes, but I apologize if I missed any. Chapter 12 works with Excel files and openpyxyl and I noticed most of the changes here. If you try any of my codes and they are not working for some reason please let me know. I'd be happy to figure out what the issue us and update the code to accomadate any new versions.
+>A note about my codes. There are definitely better way to achieve the same results than what I'm providing. I did my best to use material learned from only the book to keep things familiar. Some chapters are outdated and the modules used now require different syntax. I tried my best to point out these changes in the codes, but I apologize if I missed any. Chapter 12 works with Excel files and openpyxyl and I noticed most of the changes here. If you try any of my codes and they are not working for some reason please let me know. I'd be happy to figure out what the issue us and update the code to accomadate any new versions.
 
-I have also filled my codes with a lot of comments. I tried my best to explain what is happening and WHY I did something. I didn't go into that much detail about explaining how the code works since the book does that. But putting everything together may make it easier. If you were to actually publish code like this most of the comments should be removed. 
+>I have also filled my codes with a lot of comments. I tried my best to explain what is happening and WHY I did something. I didn't go into that much detail about explaining how the code works since the book does that. But putting everything together may make it easier. If you were to actually publish code like this most of the comments should be removed. 
 
-Last, I am not a professional programmer. I've taken one Intro class in college and the rest is self taught. So I apologize for any mistakes I have made. I have tried my best to follow PEP 8 guidelines when writing these codes. Feel free to leave me with comments/suggestions on anything you see here.
+>Last, I am not a professional programmer. I've taken one Intro class in college and the rest is self taught. So I apologize for any mistakes I have made. I have tried my best to follow PEP 8 guidelines when writing these codes. Feel free to leave me with comments/suggestions on anything you see here.
+
+## 📚 Table of Contents
+
+### 📃 Practice Project
+
+<details>
+<summary>Oder by Chapter</summary>
+
+#### Chapter 03
+
+- [Ch 03 - Collatz Sequence](Practice-Projects/Ch%2003%20-%20Collatz%20Sequence)
+
+#### Chapter 04
+
+- [Ch 04 - Character Picture Grid](Practice-Projects/Ch%2004%20-%20Character%20Picture%20Grid)
+
+- [Ch 04 - Comma Code](Practice-Projects/Ch%2004%20-%20Comma%20Code)
+
+#### Chapter 05
+
+- [Ch 05 - Fantasy Game Inventory](Practice-Projects/Ch%2005%20-%20Fantasy%20Game%20Inventory)
+
+</details>
 
 
 Comments about the book:
