@@ -48,4 +48,4 @@ This was the first book I used when learning Python and I highly recommend it. I
 
 I would like to keep this repository updated at all times. If you run into a code that is no longer working due to a version update please let me know. I'd be happy to update it. 
 
-You can contact me at thomas.r.kellough@gmail.com
+You can contact me at thomas.r.kellough@gmail.com 
