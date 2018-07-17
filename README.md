@@ -34,6 +34,14 @@ This book is designed for people new to programming that aims to achieve success
 
 </details>
 
+* ### [📃 Extra Programs](/ExtraPrograms)
+  * [Delete Encrypted](ExtraPrograms/Delete%20Encrypted)
+
+  * [Practice Question](ExtraPrograms/Practice%20Questions)
+  
+  * [Py Copy](ExtraPrograms/Py%20Copy)
+
+
 
 Comments about the book:
 This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with one Intro C++ class and self taught R. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used IntelliJ, Pycharm, Notepad++ and Atom. My favorite IDE is Pycharm and my favorite text editor is Atom. However, search for something that fits your needs. 
