@@ -16,7 +16,7 @@ This book is designed for people new to programming that aims to achieve success
 ### 📃 Practice Project
 
 <details>
-<summary>Oder by Chapter</summary>
+<summary>Order by Chapter</summary>
 
 #### Chapter 03
 
