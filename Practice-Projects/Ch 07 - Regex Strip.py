@@ -22,7 +22,7 @@ char_rm = input('What characters do you want to remove? (Press enter for whiteps
 # spaces are removed print out the length of the new string.
 def white_strip(string, remove):
     if remove != '':
-        strip_regex = re.compile(remove)
+        strip_regex = re.compile(fr'^{remove}+|{remove}+$')
         new_string = strip_regex.sub('', string)
         return new_string
     else:
