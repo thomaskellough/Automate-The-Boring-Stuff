@@ -31,5 +31,5 @@ try:
     while True:
         time.sleep(10)
         pyautogui.moveRel(random.choice(random_movements))
-except pyautogui.FailSafeExceptiont:
+except pyautogui.FailSafeException:
     print('Program finished.')
